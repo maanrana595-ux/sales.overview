@@ -70,7 +70,7 @@ The project involved:
 - `sales over view.png` - Dashboard screenshot
 
 ## Dashboard Preview
-
+https://github.com/maanrana595-ux/sales.overview/blob/main/sales%20over%20view.png
 
 
  
