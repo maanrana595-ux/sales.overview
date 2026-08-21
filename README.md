@@ -67,7 +67,7 @@ The project involved:
 
 - `SALE-OVERVIEW.pbix` - Power BI report
 - `Sales Overview Data.xlsx` - Excel data used for the report
-- `sales over view.png` - Dashboard screenshot
+- 
 
 ## Dashboard Preview
 https://github.com/maanrana595-ux/sales.overview/blob/main/sales%20over%20view.png
